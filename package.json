@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ReactjsProgram/react-fundamentals-curriculum.git"
+    "url": "git+https://github.com/virtual/react-fundamentals-curriculum.git"
   },
-  "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
+  "author": "Jeanine Schoessler <jeanine.mt@gmail.com> (http://satinflame.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ReactjsProgram/react-fundamentals-curriculum/issues"
+    "url": "https://github.com/virtual/react-fundamentals-curriculum.git/issues"
   },
-  "homepage": "https://github.com/ReactjsProgram/react-fundamentals-curriculum#readme"
+  "homepage": "https://github.com/virtual/react-fundamentals-curriculum.git#readme"
 }
